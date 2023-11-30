@@ -119,37 +119,31 @@
 
   body .botao2{
     background-color:rgb(255, 255, 255);  
-    width: 190px;
+    width:190px ;
     height: 35px;
-    
+
   }
 
-  .alinhar{
+.alinhar{
     display: flex;
     justify-content: center;
   }
 
 
-  .resultados{
+.resultados{
      margin-top: -25px;
   }
 
+.itens{
+    background-color:#cbc5c5;
+    width: 750px;
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 3px;
+    margin-top: 70px;
+    padding: 50px;
 
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
+  }
 
   
 
