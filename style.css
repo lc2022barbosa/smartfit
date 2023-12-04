@@ -126,16 +126,9 @@ body .botao2{
   margin-top: -160px;
   margin-left: -22px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
+.mask2{
+  width: 60px;
+  margin-top:-65px ;
+  margin-left: 85px;
+  height: -1px;
+}
