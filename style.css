@@ -115,7 +115,7 @@ body .botao2{
 .itens{
     background-color:#cbc5c5;
     width: -150px;
-    height: 50px;
+    height: 60px;
     margin-left: -1px;
     border-radius: 3px;
     margin-top: 60px;
@@ -123,12 +123,29 @@ body .botao2{
   }
 .mask{
   width: 60px;
-  margin-top: -160px;
+  margin-top: -165px;
   margin-left: -22px;
 }
 .mask2{
   width: 60px;
-  margin-top:-65px ;
+  margin-top:-70px ;
   margin-left: 85px;
   height: -1px;
 }
+
+.obrigatório{
+margin-left: -24px;
+}
+.recomendado{
+  margin-top: -38px;
+  margin-left: 85px;
+}
+.toalha{
+ margin-left: 300px;
+ margin-top: -150px;
+}
+.lenço{
+  margin-top: 20px;
+  width: 55px;
+}
+ 
