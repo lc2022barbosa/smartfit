@@ -33,11 +33,11 @@ h2 {
   }
 .quadro{
     border:2px solid #cbc5c5;
-    border-radius: 9px;
+    border-radius: 10px;
     margin-left: 500px;
     margin-right: 1000px;
     height: 380px;
-    width: 750px;
+    width: 850px;
   }
 .relogio{
     width:20px;
@@ -141,7 +141,7 @@ margin-left: -24px;
   margin-left: 82px;
 }
 .toalha{
- margin-left: 300px;
+ margin-left: 255px;
  margin-top: -150px;
 }
 .lenço{
@@ -162,7 +162,24 @@ width: 65px;
   margin-left: 300px;
   margin-top: -35px;
 }
- 
+.bebedouro{
+  margin-top: -155px;
+  margin-left: 430px; 
+}
+.bebedouro1{
+  width: 65px;
+  margin-left: 450px;
+}
+.obrigatorio3{
+ margin-left: 450px;
+ }
+ .bebedouro3{
+width: 70px;
+margin-left: 550px;
+margin-top: -120px;
+ }
+
+
  
 
 
