@@ -37,7 +37,7 @@ h2 {
     margin-left: 500px;
     margin-right: 1000px;
     height: 380px;
-    width: 850px;
+    width: 900px;
   }
 .relogio{
     width:20px;
@@ -156,11 +156,11 @@ width: 65px;
 }
 .obrigatório1{
   margin-left: 200px;
-  margin-top: -4px;
+  margin-top: -10px;
 }
 .recomendado2{
   margin-left: 300px;
-  margin-top: -35px;
+  margin-top: -45px;
 }
 .bebedouro{
   margin-top: -155px;
@@ -170,16 +170,50 @@ width: 65px;
   width: 65px;
   margin-left: 450px;
 }
-.obrigatorio3{
- margin-left: 450px;
- }
- .bebedouro3{
-width: 70px;
-margin-left: 550px;
-margin-top: -120px;
- }
-
-
+.parcial{
+  margin-left: 410px;
+}
+.parcial1{
+  margin-left: 400px;
+  width:70px ;
+}
+.parcial2{
+  margin-left: 480px;
+  margin-top: -120px;
+  width: 65px;
+}
+.proibido{
+  margin-left: 490px;
+  margin-top: -14px;
+}
+.vestiario{
+  margin-top: -120px;
+  margin-left: 590px ;
+  width: 66px;
+}
+.vestiario1{
+  margin-left: 655px;
+  margin-top: -120px;
+}
+.img2{
+  margin-left: 670px;
+  margin-top: -19px;
+  width: 70px;
+}
+.img3{
+  margin-left: 750px;
+  margin-top: -105px;
+  width: 74px;
+}
+.liberado{
+  margin-left: 605px;
+}
+.parcial4{
+  margin-left: 700px;
+}
+.fechado{
+  margin-left: 800px;
+}
  
 
 
