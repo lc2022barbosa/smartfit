@@ -132,13 +132,13 @@ body .botao2{
   margin-left: 85px;
   height: -1px;
 }
-
 .obrigatório{
+  margin-top: -2px;
 margin-left: -24px;
 }
 .recomendado{
-  margin-top: -38px;
-  margin-left: 85px;
+  margin-top: -35px;
+  margin-left: 82px;
 }
 .toalha{
  margin-left: 300px;
@@ -146,18 +146,23 @@ margin-left: -24px;
 }
 .lenço{
   margin-top: 20px;
-  margin-left: 250px;
+  margin-left: 200px;
   width: 65px;
 }
 .lenço2{
 margin-top: -85px;
-margin-left: 350px;
+margin-left: 310px;
 width: 65px;
 }
-.obrigatório2{
-  margin-left: 250px;
-  margin-top: -10px;
+.obrigatório1{
+  margin-left: 200px;
+  margin-top: -4px;
 }
+.recomendado2{
+  margin-left: 300px;
+  margin-top: -35px;
+}
+ 
  
 
 
